@@ -1,0 +1,13 @@
+vs코드에서 폴더열기(연동원하는 폴더)
+소스제어(3번째메뉴)-초기화
+변동내용 + 클릭 후 V클릭
+터미널열어서 코드입력
+
+깃허브 연동 코드(초기화 후 연동)
+git init
+git add .(마침표)
+git commit -m "init"
+git remote add origin [Github repository Address]
+git push -u origin main
+
+https://earth-95.tistory.com/87
