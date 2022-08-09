@@ -11,3 +11,6 @@ git remote add origin [Github repository Address]
 git push -u origin main
 
 https://earth-95.tistory.com/87
+
+깃허브에있는 repo 전체 복사:  clone
+git clone 리포지터리주소(.git)
