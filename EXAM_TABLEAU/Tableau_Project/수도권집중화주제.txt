@@ -1,0 +1,36 @@
+인구문제
+밀집,  저출산, 투표권
+
+
+복지
+치안, 의료보건, 
+
+교육시설 , 일자리문제
+
+서울개발지연, 주거문제
+ 교통불균형, 
+
+문화
+
+문화시설집중,
+혐오시설 지방집중
+
+언론지방외면
+
+
+
+인구
+
+복지(교육시설집중, 기업 집중)
+
+경제?사회?: 부동산(주택가격), 주거문제, 교통불균형)
+
+문화(시설집중,혐오시설회피)
+
+데이터 출처
+rir: 국가지표체계(https://www.index.go.kr/unify/idx-info.do?idxCd=4255)
+lir pir:  HOUSTAT주택금융통계시스템(https://www.hf.go.kr/research/portal/stat/easyStatPage/T188183126881844.do)
+아파트가격 : REB부동산통계정보시스템 (https://www.reb.or.kr/r-one/main.do)
+주거면적: KOSIS국가통계포털(https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1YL20421E&vw_cd=MT_G)
+주택보급율: e-나라지표(https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1227)
+자가점유가구비율: e-나라지표(https://www.index.go.kr/potal/main/EachDtlPageDetail.do?idx_cd=1239)
