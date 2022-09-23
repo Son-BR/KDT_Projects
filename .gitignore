@@ -9475,3 +9475,11 @@ EXAM_DL/DL_Project/x_test.npy
 EXAM_DL/DL_Project/x_train.npy
 EXAM_DL/DL_Project/y_test.npy
 EXAM_DL/DL_Project/y_train.npy
+EXAM_NLP/DAY_0923/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+EXAM_NLP/DAY_0923/data/FashionMNIST/raw/t10k-images-idx3-ubyte.gz
+EXAM_NLP/DAY_0923/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+EXAM_NLP/DAY_0923/data/FashionMNIST/raw/t10k-labels-idx1-ubyte.gz
+EXAM_NLP/DAY_0923/data/FashionMNIST/raw/train-images-idx3-ubyte
+EXAM_NLP/DAY_0923/data/FashionMNIST/raw/train-images-idx3-ubyte.gz
+EXAM_NLP/DAY_0923/data/FashionMNIST/raw/train-labels-idx1-ubyte
+EXAM_NLP/DAY_0923/data/FashionMNIST/raw/train-labels-idx1-ubyte.gz
